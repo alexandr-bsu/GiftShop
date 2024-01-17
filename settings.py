@@ -1,0 +1,1 @@
+DB_SETTINGS = dict(host='', user='', password='', database='')
